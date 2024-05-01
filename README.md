@@ -1,5 +1,7 @@
 # AI 분리수거 도우미 똑똑수거
-## 2021-2 MediaProject
+## SmartSort: AI Trash Sorting System
+![smartsort_teaser](https://github.com/8eomio/SmartSort/assets/61742009/ca238791-1d4f-4fa0-b93b-84f725b23760)
+
 ### Installation 
 
 
